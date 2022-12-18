@@ -1,6 +1,8 @@
-# foodistic
+# Foodistic
 
-A new Flutter project.
+A flutter application which helps you to find the best recipes along with the time required to make them.
+This application uses Yummly API to fetch the recipes.
+
 
 ## Getting Started
 
